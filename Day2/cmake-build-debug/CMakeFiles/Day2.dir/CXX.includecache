@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Saxion/Technische Informatica/Datastructures/Advent-Of-Code-2020/Day2/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+

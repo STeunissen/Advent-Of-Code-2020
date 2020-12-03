@@ -5,8 +5,6 @@
 #include <sstream>
 #include <algorithm>
 
-
-
 std::vector<std::string> readFile(const std::string& filename, std::ostream& output= std::cout){
     std::ifstream file (filename);
     std::vector<std::string> lines;

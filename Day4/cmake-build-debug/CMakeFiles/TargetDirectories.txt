@@ -1,3 +1,0 @@
-E:/Saxion/Technische Informatica/Datastructures/Advent-Of-Code-2020/Day4/cmake-build-debug/CMakeFiles/Day4.dir
-E:/Saxion/Technische Informatica/Datastructures/Advent-Of-Code-2020/Day4/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Saxion/Technische Informatica/Datastructures/Advent-Of-Code-2020/Day4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

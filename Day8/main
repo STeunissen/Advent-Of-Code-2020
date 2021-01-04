@@ -39,4 +39,4 @@ def change_piece(lines):
             lines[idx][0] = prev
 
 print("Part 1", move(lines, True))
-print("Part 2", change_piece(lines))1
+print("Part 2", change_piece(lines))
